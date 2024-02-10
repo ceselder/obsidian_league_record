@@ -1,0 +1,11 @@
+{
+	"id": "obsidian_league_record",
+	"name": "league_record importer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "For those keeping notes/wanting to review lol games. Can easily import deaths and write down how to avoid them in the future etc",
+	"author": "Celeste",
+	"authorUrl": "https://celestje.ovh/",
+	"fundingUrl": "https://donate.hsi.org/page/112649/donate/",
+	"isDesktopOnly": true
+}

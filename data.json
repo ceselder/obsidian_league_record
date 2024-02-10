@@ -1,0 +1,16 @@
+{
+  "recordingsFolder": "D:\\lol_replays",
+  "vaultLocation": "lol",
+  "logClassic": true,
+  "logARAM": false,
+  "logURF": false,
+  "logDeaths": true,
+  "deathTemplate": "#### Thoughts?",
+  "lastSynced": 1707493020000,
+  "timeBefore": 5,
+  "timeAfter": 5,
+  "reminderMessage": "remember, low variance works in the long run",
+  "logGamemodes": {},
+  "outplayedJsonPath": "/home/celeste/outplayed.json",
+  "outplayedReplayFolderPath": "/hdd/downloads/outplayed"
+}

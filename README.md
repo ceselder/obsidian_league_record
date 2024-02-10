@@ -1,7 +1,7 @@
 # Obsidian League of Legends highlights importer (from league_record)
 Automatically import deaths in league of legends from league_record (todo, link) into obsidian for easy and quick death reviews.
 
-If you didn't know, league record is an awesome open source software written by (todo) that makes game recording easy and efficient
+If you didn't know, [league record](https://github.com/FFFFFFFXXXXXXX/league_record) is an awesome open source software written by [FFFFFFFXXXXXXX](https://github.com/FFFFFFFXXXXXXX) that makes recording lol vods easy and efficient
 
 
 https://github.com/ceselder/obsidian-outplayed-import-lol/assets/94973748/624019e1-d1e2-4b5d-ab7e-321bcace8384
